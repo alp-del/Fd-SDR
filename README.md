@@ -1,5 +1,3 @@
-# 🧮 Numerical Simulations for *Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance*
-
 This repository contains the Python code for the numerical experiments presented in our paper:
 
 **Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance.**  
@@ -8,7 +6,7 @@ The simulations reproduce the main results of the paper. All core methods and al
 
 ---
 
-## 🧠 Included Methods
+## Included Methods
 
 In addition to our proposed approach, this repository includes implementations of methods from prior literature:
 
